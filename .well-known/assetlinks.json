@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.your.package.name",
+    "sha256_cert_fingerprints": ["MÃ_SHA256_CỦA_APP_DEV"]
+  }
+}]
